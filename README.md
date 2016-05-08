@@ -10,7 +10,8 @@ microlending.
 
 Using Firebase for backend API, React and Redux.
 
-
+Firebase link:
+https://fiery-fire-5973.firebaseio.com/buyers
 
 To run, 
 
